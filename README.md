@@ -2,9 +2,10 @@
 
 ### Sobre mim 
 
--.🚀💻 Eu estou no último semestre do tecnólogo de Ánalise e Desenvolvimento de Sistemas, estou em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento web e aprendizado profundo.
-- 
+- 🚀💻 Eu estou no último semestre do tecnólogo de Ánalise e Desenvolvimento de Sistemas, estou em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento web e aprendizado profundo.
+
 - 🔭 Atualmente estou a trabalhar como free lancer, desenvolvendo pequenos projetos para conhecidos, e também aprimorando minhas habilidades em Nodejs, .Net e iniciando meus estudos em Angular juntamente com o Ionic.
+
 - 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, Metodologias ágeis e Estratégia de Testes
 <!--
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=venilson1)
