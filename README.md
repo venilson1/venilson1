@@ -7,7 +7,7 @@
 - 🔭 Atualmente estou a trabalhar como free lancer, desenvolvendo pequenos projetos para conhecidos, e também aprimorando minhas habilidades em Nodejs, .Net e iniciando meus estudos em Angular juntamente com o Ionic.
 
 - 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, metodologias ágeis e estratégia de testes
-<!--
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=venilson1)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venilson1/) 
