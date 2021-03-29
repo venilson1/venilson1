@@ -4,7 +4,7 @@
 
 - 🚀💻 Estou no último semestre do tecnólogo de Ánalise e Desenvolvimento de Sistemas, estou em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento web e aprendizado profundo.
 
-- 🔭 Atualmente estou a trabalhar como free lancer, desenvolvendo pequenos projetos para conhecidos, e também aprimorando minhas habilidades em Nodejs, .Net e iniciando meus estudos em Angular juntamente com o Ionic.
+- 🔭 Atualmente estou a trabalhar como free lancer, desenvolvendo pequenos projetos para conhecidos, e também aprimorando minhas habilidades em Nodejs, .Net e iniciando meus estudos em Angular.
 
 - 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, metodologias ágeis e estratégia de testes
 
@@ -42,9 +42,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="tyescript" height="50">
 </a> 
 <p/>
-
-<br/>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venilson1&show_icons=true&theme=material-palenight)
 
