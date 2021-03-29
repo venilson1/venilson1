@@ -8,6 +8,45 @@
 
 - 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, metodologias ágeis e estratégia de testes
 
+<h3 align="left">Tecnologias:</h3>
+<br/>
+<p align="left">
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular"  height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#"  height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"  height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
+</a> 
+
+<a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="tyescript" height="50">
+</a> 
+<p/>
+
+<br/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venilson1&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venilson1&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
