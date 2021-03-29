@@ -9,7 +9,6 @@
 - 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, metodologias ágeis e estratégia de testes
 
 <h3 align="left">Tecnologias:</h3>
-<br/>
 <p align="left">
 <a>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular"  height="50">
