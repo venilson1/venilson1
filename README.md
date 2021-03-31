@@ -10,37 +10,30 @@
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
-<a>  
+<a href="https://angular.io/">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular"  height="50">
 </a> 
 
-<a>  
+<a href="https://getbootstrap.com/">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50">
 </a> 
 
-<a>  
+<a href="https://dotnet.microsoft.com/download">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#"  height="50">
 </a> 
 
-<a>  
+<a href="https://www.w3schools.com/css/">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  height="50">
 </a> 
 
-<a>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"  height="50">
-</a> 
-
-<a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
 </a> 
 
-<a>  
+<a href="https://nodejs.org/en/">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
 </a> 
 
-<a>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="tyescript" height="50">
-</a> 
 <p/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venilson1&show_icons=true&theme=material-palenight)
