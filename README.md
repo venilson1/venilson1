@@ -1,4 +1,4 @@
-# Oi, Eu Sou o Venilson, DEsenvolvedor Web seja muito bem vindo 👋
+# Oi, Eu Sou o Venilson, seja muito bem vindo 👋
 
 ### Sobre mim 👨🏽‍🚀
 
