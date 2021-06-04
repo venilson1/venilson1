@@ -1,12 +1,10 @@
-# Seja muito bem vindo 👋
+# Olá, Seja muito bem vindo(a) 👋
 
-### Sobre mim 👨🏽‍🚀
+### Prazer, me chamo Venilson! Um Dev Backend👨🏽‍🚀
 
-- 🚀💻 Estou no último semestre do tecnólogo de Ánalise e Desenvolvimento de Sistemas, estou em busca de oportunidades e colaboração em projetos relacionados à desenvolvimento web e aprendizado profundo.
+- 🚀💻 Ultimo mÇes do tecnólogo em análise e desenvolvimento de sistemas.
 
-- 🔭 Atualmente estou a trabalhar como free lancer, desenvolvendo pequenos projetos para conhecidos, e também aprimorando minhas habilidades em Nodejs, .Net e iniciando meus estudos em Angular.
-
-- 🌱 Na Faculdade, atualmente estou estudando sobre os conceitos de engenharia de software, metodologias ágeis e estratégia de testes
+- 🔭 Desenvolvendo pequenos projetos para fins didaticos, em busca de melhorar as habilidades em Nodejs, .Net e Angular
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
