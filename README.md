@@ -1,4 +1,4 @@
-# Oi, Eu Sou o Venilson, seja muito bem vindo 👋
+# Seja muito bem vindo 👋
 
 ### Sobre mim 👨🏽‍🚀
 
