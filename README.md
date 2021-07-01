@@ -1,10 +1,10 @@
 # Olá, Seja muito bem vindo(a) 👋
 
-### Prazer, me chamo Venilson! Um Dev Backend👨🏽‍🚀
+### Prazer, me chamo Venilson! Um Dev FullStack👨🏽‍🚀
 
-- 🚀💻 Ultimo mÇes do tecnólogo em análise e desenvolvimento de sistemas.
+- 🚀💻 recém formado em análise e desenvolvimento de sistemas.
 
-- 🔭 Desenvolvendo pequenos projetos para fins didaticos, em busca de melhorar as habilidades em Nodejs, .Net e Angular
+- 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender ensinando tecnologia.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
