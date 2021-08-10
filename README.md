@@ -4,7 +4,10 @@
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas.
 
-- 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender ensinando tecnologia.
+- 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
+
+- ⚛️ Aprofundando conhecimentos em React, NextJs.
+
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
