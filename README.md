@@ -1,13 +1,11 @@
-# Olá, Seja muito bem vindo(a) 👋
+# Oláo, Seja muito bem vindo(a) 👋
+## Sou o Venilson! Dev FrontEnd👨🏽‍🚀
 
-### Prazer, me chamo Venilson! Um Dev FullStack👨🏽‍🚀
-
-- 🚀💻 recém formado em análise e desenvolvimento de sistemas.
+- 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
 - 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
 
 - ⚛️ Aprofundando conhecimentos em React, NextJs.
-
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
@@ -34,6 +32,10 @@
 <a href="https://nodejs.org/en/">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
 </a> 
+  
+<a href="https://pt-br.reactjs.org/">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="nodejs" w height="50">
+</a>
 
 <p/>
 
