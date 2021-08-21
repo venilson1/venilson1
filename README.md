@@ -1,4 +1,4 @@
-# Oláo, Seja muito bem vindo(a) 👋
+# Olá, Seja muito bem vindo(a) 👋
 ## Sou o Venilson! Dev FrontEnd👨🏽‍🚀
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
