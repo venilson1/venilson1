@@ -3,6 +3,8 @@
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
+- 👨‍🏫Professor de lógica de programação no curso tecnico ESSA 
+
 - 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
 
 - ⚛️ Aprofundando conhecimentos em React, NextJs.
