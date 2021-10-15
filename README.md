@@ -1,13 +1,13 @@
 # Olá, Seja muito bem vindo(a) 👋
-## Sou o Venilson! Dev FrontEnd👨🏽‍🚀
+## Venilson, um Dev FrontEnd e Professor👨🏽‍🚀
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
-- 👨‍🏫Professor de lógica de programação no curso tecnico ESSA 
+- 👨‍🏫Professor de programação na instituição ESSA. 
 
-- 🔭 Desenvolvo pequenos projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
+- 🔭 Desenvolvo projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
 
-- ⚛️ Aprofundando conhecimentos em React, NextJs.
+- ⚛️ Aprofundando conhecimentos em React e NextJs.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
