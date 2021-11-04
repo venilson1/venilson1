@@ -1,5 +1,5 @@
 # Olá, Seja muito bem vindo(a) 👋
-## Venilson, um Dev FrontEnd e Professor👨🏽‍🚀
+## Venilson, Programador e Professor 🚀
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
@@ -7,37 +7,34 @@
 
 - 🔭 Desenvolvo projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
 
-- ⚛️ Aprofundando conhecimentos em React e NextJs.
+- ☕ Aprofudando os estudos em Java
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
-<a href="https://angular.io/">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular"  height="50">
-</a> 
 
-<a href="https://getbootstrap.com/">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50">
-</a> 
+  <a href="https://nodejs.org/en/">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
+  </a> 
 
-<a href="https://dotnet.microsoft.com/download">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#"  height="50">
-</a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
+  </a> 
 
-<a href="https://www.w3schools.com/css/">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  height="50">
-</a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50">
+  </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
-</a> 
+  <a href="https://pt-br.reactjs.org/">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" w height="50">
+  </a>
 
-<a href="https://nodejs.org/en/">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
-</a> 
-  
-<a href="https://pt-br.reactjs.org/">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="nodejs" w height="50">
-</a>
+  <a href="https://nextjs.org/">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" w height="50">
+  </a>
+
+  <a href="https://www.java.com/pt-BR/">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="50">
+  </a> 
 
 <p/>
 
