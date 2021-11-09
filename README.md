@@ -1,5 +1,6 @@
 # Olá, Seja muito bem vindo(a) 👋
-## Venilson, Programador e Professor 🚀
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venilson1&label=Profile%20views&color=0e75b6&style=flat" alt="venilson1" /> </p>
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
