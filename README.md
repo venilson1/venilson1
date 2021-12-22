@@ -4,8 +4,6 @@
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
-- 👨‍🏫Professor de programação na instituição ESSA. 
-
 - 🔭 Desenvolvo projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
 
 - ☕ Aprofudando os estudos em Java
