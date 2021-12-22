@@ -10,6 +10,10 @@
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
+  
+  <a href="https://www.java.com/pt-BR/">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="50">
+  </a> 
 
   <a href="https://nodejs.org/en/">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
@@ -30,10 +34,6 @@
   <a href="https://nextjs.org/">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" w height="50">
   </a>
-
-  <a href="https://www.java.com/pt-BR/">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="50">
-  </a> 
 
 <p/>
 
