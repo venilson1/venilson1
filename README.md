@@ -4,9 +4,9 @@
 
 - 🚀💻 recém formado em análise e desenvolvimento de sistemas 2019-2021.
 
-- 🔭 Desenvolvo projetos para fins didáticos. Apaixonado por aprender e ensinar tecnologia.
+- 🔭 Atuo como desenvolvedor web a pouco mais de 1 ano. Apaixonado por aprender e ensinar tecnologia.
 
-- ☕ Aprofudando os estudos em Java
+- ☕ Aprofudando os estudos em Designer Patterns e boas práticas.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
@@ -23,16 +23,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
   </a> 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50">
-  </a> 
 
-  <a href="https://pt-br.reactjs.org/">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" w height="50">
-  </a>
-
-  <a href="https://nextjs.org/">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" w height="50">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cshap" w height="50"/>
   </a>
 
 <p/>
